@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/monitoring_aboutyou/!svn/ver/225/branches/2.3.5/vendor/plugins/be_taggable/generators/be_taggable_tables/templates
+END
+add_be_taggable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/monitoring_aboutyou/!svn/ver/225/branches/2.3.5/vendor/plugins/be_taggable/generators/be_taggable_tables/templates/add_be_taggable.rb
+END
+be_taggable_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/monitoring_aboutyou/!svn/ver/225/branches/2.3.5/vendor/plugins/be_taggable/generators/be_taggable_tables/templates/be_taggable_test.rb
+END
